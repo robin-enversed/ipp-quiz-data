@@ -1,0 +1,431 @@
+{
+    "commercial": [
+      {
+        "id": 1,
+        "imageUrl": "/assets/img/commercial-1.png",
+        "question": "'Deliver' is one of the main values of our company. How do we deliver profitability to our customers?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Shortening distances", "correct": true },
+          { "text": "Maximum use load capacity", "correct": true },
+          { "text": "Limit downtime", "correct": true },
+          { "text": "Forecasting", "correct": true },
+          { "text": "Product innovation", "correct": true },
+          { "text": "Avoid empty running", "correct": true },
+          { "text": "Shared transports", "correct": true },
+          { "text": "Route optimisation", "correct": true },
+          { "text": "Usage instead of ownership", "correct": true }
+        ],
+        "explanation": "This list of ways to deliver profitability is just a selection of the inexhaustible possibilities to add value to your customers. It all starts with offering them 'pay-per-use' load carrier pooling. Instead of having the hassle of ownership, clients will only pay for the pallets and boxes they need. This allows them to focus on their core business. From there, we collaborate with our customers in forecasting, planning, and executing supply chain strategies that build both profitability and sustainability. Techniques such as maximizing load capacity, avoiding empty runs through shared transports and route optimization, and limiting downtime all contribute to a lean, efficient process. Let’s deliver!"
+      },
+      {
+        "id": 2,
+        "imageUrl": "/assets/img/commercial-2.png",
+        "question": "Which term belongs to what of our activities?\n\nA. Upstream customer\nB. Trade direct\nC. Onside depot\n\n1. Damage return\n2. Pallet availability\n3. Intermediate goods",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "A3 / B1 / C2", "correct": true },
+          { "text": "A2 / B1 / C3", "correct": false },
+          { "text": "A2 / B3 / C1", "correct": false }
+        ],
+        "explanation": "An upstream customer typically supplies intermediate goods—such as packaging materials, ingredients, or components—to another customer, which is why it is matched with 'Intermediate goods' (A3). 'Trade direct' refers to pallets that travel directly between our customer and their clients, bypassing our collection process; any unusable pallets are then returned to us as 'Damage return' (B1). Finally, an 'Onside depot' offers immediate load carrier availability (C2). Hence, the correct matching is A3 / B1 / C2."
+      },
+      {
+        "id": 3,
+        "imageUrl": "/assets/img/commercial-3.png",
+        "question": "Why is reducing pallet loss such an important focus in our business?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Our customers across Europe rely on these pallets 24/7", "correct": true },
+          { "text": "By reducing loss we will save on operational costs", "correct": false },
+          { "text": "Reducing pallet loss directly influences our financial and sustainable impact", "correct": true }
+        ],
+        "explanation": "Reducing pallet loss is critical because our customers depend on these pallets around the clock. While one might think that reducing loss would only affect operational costs, in reality it directly impacts our investment capital. Even a small reduction—say, 0.5% of our pallet pool—can significantly decrease the need for new pallet production, lower timber consumption, and thus improve both our financial performance and sustainability credentials."
+      },
+      {
+        "id": 4,
+        "imageUrl": "/assets/img/commercial-4.png",
+        "question": "Which one of the three potential customers would you sign up as a client? Potential customer A is a manufacturer that needs an estimate of 1,2 million load carriers annually. Potential customer B indicates a need of 1 million load carriers each year. Potential customer C estimates to need 700.000. D is one of our current customers.",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Potential customer A", "correct": false },
+          { "text": "Potential customer B", "correct": true },
+          { "text": "Potential customer C", "correct": false }
+        ],
+        "explanation": "Although potential customer A requires a larger volume, customer B is more efficient and profitable because of its proximity to a depot that already has pallets Ready for Use—minimizing transport costs. In addition, there is an opportunity to combine transport runs with our existing customer D. These efficiency advantages make customer B the optimal choice."
+      },
+      {
+        "id": 5,
+        "imageUrl": "/assets/img/commercial-5.png",
+        "question": "Choose the benefit(s) when clients switch to connected load carriers.",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "It will help us to reduce loss of pallets", "correct": true },
+          { "text": "It gives us more insights in dwell time, which enables us to optimise efficiency drastically", "correct": true },
+          { "text": "It gives our clients valuable insights, improving their sustainability and client satisfaction", "correct": true }
+        ],
+        "explanation": "Connected load carriers are equipped with IoT sensors and tracking devices that provide real-time data. This data helps us monitor pallet movement, reduce loss, and obtain key insights into dwell time. In turn, these insights allow for route and process optimizations that not only improve our efficiency but also offer our clients actionable data to enhance their own sustainability and operational performance."
+      },
+      {
+        "id": 6,
+        "imageUrl": "/assets/img/commercial-6.png",
+        "question": "In our Sustainability Strategy we focus on three of the UN SDGs on which we can make most impact. Which are the right ones?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "SDG 8 (Decent work and economic growth), SDG 15 (Life on land) and SDG 17 (Partnerships for the goals)", "correct": false },
+          { "text": "SDG 9 (Industry, innovation and infrastructure), SDG 12 (Responsible consumption and production) and SDG 13 (Climate action)", "correct": false },
+          { "text": "SDG 12 (Responsible consumption and production), SDG 13 (Climate action) and SDG 17 (Partnerships for the goals)", "correct": true },
+          { "text": "SDG 8 (Decent work and economic growth), SDG 13 (Climate action) and SDG 15 (Life on land)", "correct": false }
+        ],
+        "explanation": "After carefully assessing our operational footprint—which is heavily influenced by our load carriers and transportation—we determined that the greatest opportunities for improvement lie within SDG 12 (Responsible Consumption and Production), SDG 13 (Climate Action), and SDG 17 (Partnerships for the Goals). This focus enables us to set measurable targets and drive substantial progress in both sustainability and profitability."
+      },
+      {
+        "id": 7,
+        "imageUrl": "/assets/img/commercial-7.png",
+        "question": "Select all products that travel IPP's pallets.",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Photo 1: Eggs", "correct": true },
+          { "text": "Photo 2: Soft drinks", "correct": true },
+          { "text": "Photo 3: Chips", "correct": true },
+          { "text": "Photo 4: Automotive parts", "correct": false },
+          { "text": "Photo 5: Oatmeal", "correct": true },
+          { "text": "Photo 6: Coffee", "correct": true },
+          { "text": "Photo 7: Cookies", "correct": true },
+          { "text": "Photo 8: Big bag with polymers", "correct": false },
+          { "text": "Photo 9: Hygiene products", "correct": true },
+          { "text": "Photo 10: Juices", "correct": true },
+          { "text": "Photo 11: Cereal", "correct": true },
+          { "text": "Photo 12: Milk", "correct": true }
+        ],
+        "explanation": "Our pallet pooling service supports an extremely diverse range of products—from perishable goods like eggs and milk to packaged items such as soft drinks, chips, oatmeal, coffee, and cereals. With over 1,650 well-known customers across Europe, our system is designed to handle nearly every type of fast-moving consumer good. Only a few specialized items (for example, automotive parts or big bags with polymers) are managed by other divisions."
+      },
+      {
+        "id": 8,
+        "imageUrl": "/assets/img/commercial-8.png",
+        "question": "Who are we looking for?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Michael Kardjinov, Commercial Director IPP France", "correct": false },
+          { "text": "Beate Gorzelak, Commercial Director IPP Poland", "correct": false },
+          { "text": "Stefan Herbergs, Business Development Director IPP & Faber Group", "correct": true }
+        ],
+        "explanationImage": "/assets/img/Stefan-Herbergs.jpeg",
+        "explanation": "We were looking for Stefan Herbergs. He is the European Business Development Director of the Faber Group. From his role he drives growth and innovation across the industry."
+      },
+      {
+        "id": 9,
+        "imageUrl": "/assets/img/commercial-9.png",
+        "question": "IPP as a group is growing rapidly. How do the local Customer Service and Sales teams benefit from this?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "It offers an expansive market potential for new customers", "correct": true },
+          { "text": "It provides us huge possibilities for digitalisation, and thus insights", "correct": true },
+          { "text": "It gives our customers' supply chain the opportunity to profit from economy of scale", "correct": true }
+        ],
+        "explanation": "As IPP evolves into a European organization, our local teams gain in multiple ways. The broader market potential opens up new customer opportunities, enhanced digitalisation provides critical operational insights, and the integration of our operations creates economies of scale that benefit our customers’ supply chains. Together, these advantages contribute to a more dynamic and competitive service offering."
+      },
+      {
+        "id": 10,
+        "imageUrl": "/assets/img/commercial-10.png",
+        "question": "What characterizes the impact you want to make?",
+        "multipleCorrect": false,
+        "alwaysCorrect": true,
+        "answers": [
+          { "text": "LEAN & Green", "correct": false },
+          { "text": "DRIVEN & Proud", "correct": false },
+          { "text": "SMART & Impactful", "correct": false },
+          { "text": "ORGANISED & Happy", "correct": false },
+          { "text": "AMBITIOUS & Involved", "correct": false },
+          { "text": "ANALYTIC & Sustainable", "correct": false },
+          { "text": "CLEVER & Caring", "correct": false },
+          { "text": "TALENTED & Valuable", "correct": false },
+          { "text": "Other", "correct": false }
+        ],
+        "explanation": "The impact you wish to create is a personal reflection of your commitment to excellence at IPP. Whether you choose to be LEAN & Green, SMART & Impactful, or any other descriptor, every answer is valued as it represents your unique perspective on driving positive change. Your vision is a vital part of our collective mission."
+      }
+    ],
+    "other": [
+      {
+        "id": 1,
+        "imageUrl": "/assets/img/other-1.png",
+        "question": "Why is our business model sustainable by nature?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Our pallets are made of certified wood", "correct": false },
+          { "text": "Our clients demand the highest sustainability standards", "correct": false },
+          { "text": "In a shared economy, pooling is circular by nature", "correct": true }
+        ],
+        "explanation": "Our business model is inherently sustainable because it is built on the principles of a circular economy. By offering load carriers on a pay‐per‐use basis, we ensure that pallets are continually reused rather than discarded. This circular approach minimizes waste, reduces the need for new production, and is further supported by our groupwide sustainability initiatives."
+      },
+      {
+        "id": 2,
+        "imageUrl": "/assets/img/other-2.png",
+        "question": "Which are the three main direct cost components for IPP operations?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Transport, repair and collection", "correct": true },
+          { "text": "Relocation, sort & handling, depot costs", "correct": false },
+          { "text": "Collection, storage and other costs", "correct": false }
+        ],
+        "explanation": "The primary costs in our operations come from three areas: transporting the pallets between locations, repairing them to maintain quality, and collecting them from various sites. These activities are essential to keeping our pallet pool in optimal condition and are the main cost drivers in our day‐to‐day operations."
+      },
+      {
+        "id": 3,
+        "imageUrl": "/assets/img/other-3.png",
+        "question": "What does the term ADKAR stand for?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Always Deliver Knowledge And Results", "correct": false },
+          { "text": "Adapt, Delegate, Keep Adding Resources", "correct": false },
+          { "text": "Awareness, Desire, Knowledge, Ability and Reinforcement", "correct": true }
+        ],
+        "explanation": "ADKAR is a change management model that stands for Awareness, Desire, Knowledge, Ability, and Reinforcement. It provides a structured framework to help individuals and organizations understand why change is necessary, how to implement it, and how to sustain it. This model is particularly important for IPP as we continuously evolve to meet the challenges of fast‐paced, sustainable supply chains."
+      },
+      {
+        "id": 4,
+        "imageUrl": "/assets/img/other-4.png",
+        "question": "True or false: data and information are the same thing",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "True", "correct": false },
+          { "text": "False", "correct": true },
+          { "text": "I don’t know", "correct": false }
+        ],
+        "explanation": "Data are raw, unprocessed facts, whereas information is what you get after processing and interpreting that data. In other words, data must be analyzed and contextualized in order to become useful information that can drive decision-making."
+      },
+      {
+        "id": 5,
+        "imageUrl": "/assets/img/other-5.png",
+        "question": "We believe that our success goes hand in hand with offering great learning and development opportunities. Which 'tools' does HR have at their disposal?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Employer branding", "correct": false },
+          { "text": "Succession planning", "correct": true },
+          { "text": "E-learning", "correct": true },
+          { "text": "Career management", "correct": true },
+          { "text": "Safety and working conditions", "correct": true },
+          { "text": "Performance management", "correct": true },
+          { "text": "Onboarding", "correct": true }
+        ],
+        "explanation": "At IPP, we invest in our people because our success depends on their growth and well‐being. HR supports this through a comprehensive toolkit that includes succession planning, e-learning, career management, robust safety and working conditions, performance management, and onboarding. These initiatives ensure that you have the support and development opportunities needed to excel in your role."
+      },
+      {
+        "id": 6,
+        "imageUrl": "/assets/img/other-6.png",
+        "question": "Do you recognize all load carriers from IPP?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Photo 1", "correct": true },
+          { "text": "Photo 2", "correct": false },
+          { "text": "Photo 3", "correct": false },
+          { "text": "Photo 4", "correct": false },
+          { "text": "Photo 5", "correct": true },
+          { "text": "Photo 6", "correct": false },
+          { "text": "Photo 7", "correct": true },
+          { "text": "Photo 8", "correct": true },
+          { "text": "Photo 9", "correct": true }
+        ],
+        "explanation": "Correctly identifying our load carriers is essential to ensure that only pallets meeting our strict quality standards are used. Our trained teams know which pallets are acceptable, helping us maintain reliability and safety in our operations."
+      },
+      {
+        "id": 7,
+        "imageUrl": "/assets/img/other-7.png",
+        "question": "Which data is crucial for optimising the load carrier supply chain?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Dispatch data, dwell time, location", "correct": true },
+          { "text": "Collection points, dispatch data, product weight", "correct": false },
+          { "text": "Product weight, location, service level", "correct": false }
+        ],
+        "explanation": "Optimising our load carrier supply chain depends on accurate data. Dispatch data tells us when and where pallets are moved, dwell time indicates how long pallets remain idle, and location information helps us plan efficient routes. Together, these metrics enable us to reduce idle time and lower transport costs."
+      },
+      {
+        "id": 8,
+        "imageUrl": "/assets/img/other-8.png",
+        "question": "Who are we looking for?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Thomas Domson, CEO IPP", "correct": false },
+          { "text": "Rob de Weert, CFO IPP", "correct": false },
+          { "text": "Taco Berends, HR Director Faber Group", "correct": true }
+        ],
+        "explanationImage": "/assets/img/Taco-Berends.jpg",
+        "explanation": "We were looking for Taco Berends, the HR Director of Faber Group. Taco shapes and implements the people strategy, ensuring talent development, employee engagement, and a strong company culture."
+      },
+      {
+        "id": 9,
+        "imageUrl": "/assets/img/other-9.png",
+        "question": "What emission is almost singlehandedly responsible for the bulk of our footprint?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Indirect emissions", "correct": true },
+          { "text": "Downstream emissions", "correct": false },
+          { "text": "Direct emissions", "correct": false },
+          { "text": "Upstream emissions", "correct": false }
+        ],
+        "explanation": "The vast majority of our environmental impact comes from indirect emissions. These include the emissions generated throughout our supply chain—such as those from producing and transporting pallets—even though our direct emissions (from offices or company vehicles) are relatively low. In effect, the indirect emissions dominate our overall carbon footprint."
+      },
+      {
+        "id": 10,
+        "imageUrl": "/assets/img/other-10.png",
+        "question": "What characterizes the impact you want to make?",
+        "multipleCorrect": false,
+        "alwaysCorrect": true,
+        "answers": [
+          { "text": "LEAN & Green", "correct": false },
+          { "text": "DRIVEN & Proud", "correct": false },
+          { "text": "SMART & Impactful", "correct": false },
+          { "text": "ORGANISED & Happy", "correct": false },
+          { "text": "AMBITIOUS & Involved", "correct": false },
+          { "text": "ANALYTIC & Sustainable", "correct": false },
+          { "text": "CLEVER & Caring", "correct": false },
+          { "text": "TALENTED & Valuable", "correct": false },
+          { "text": "Other", "correct": false }
+        ],
+        "explanation": "The impact you choose to make reflects your personal commitment to excellence at IPP. Whether you see yourself as LEAN & Green, SMART & Impactful, or in any other positive light, every answer is accepted. Your unique perspective is essential in driving our collective mission forward."
+      }
+    ],
+    "operations": [
+      {
+        "id": 1,
+        "imageUrl": "/assets/img/operations-1.png",
+        "question": "How many trees can we save by reusing 50.000 pallets?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "125 trees", "correct": false },
+          { "text": "1,250 trees", "correct": false },
+          { "text": "12,500 trees", "correct": true }
+        ],
+        "explanation": "On average, one tree provides the certified timber needed for four pallets. Therefore, by reusing 50,000 pallets we can save approximately 12,500 trees. This demonstrates the significant environmental impact of our circular pooling model."
+      },
+      {
+        "id": 2,
+        "imageUrl": "/assets/img/operations-2.png",
+        "question": "The customer needs to transport 400,000 pallets to the retailer by tomorrow. What is the best route from the customer to the collection point? Each pallet icon represents 100,000 pallets – the pallets inside the depot are in repair, outside are ready-to-use.",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Route A", "correct": false },
+          { "text": "Route B", "correct": false },
+          { "text": "Route C", "correct": true }
+        ],
+        "explanation": "Even though Route A or B might have a shorter distance, Route C is the fastest in terms of time because the depot on that route already has 400,000 pallets marked as Ready for Use. This efficiency helps us reduce the need for new pallet production."
+      },
+      {
+        "id": 3,
+        "imageUrl": "/assets/img/operations-3.png",
+        "question": "Which pallets should be selected for repair at our depot?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Pallet A", "correct": true },
+          { "text": "Pallet B", "correct": true },
+          { "text": "Pallet C", "correct": true },
+          { "text": "Pallet D", "correct": false },
+          { "text": "Pallet E", "correct": true }
+        ],
+        "explanation": "Our depots are critical for maintaining both the quantity and quality of available pallets. Any pallet showing damage—such as protruding nails, cracks, splinters, or misaligned components—must be sent for repair. This ensures that only pallets meeting our strict quality standards remain in circulation."
+      },
+      {
+        "id": 4,
+        "imageUrl": "/assets/img/commercial-5.png",
+        "question": "What insights can our Connected Load Carriers provide?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Traceability", "correct": true },
+          { "text": "Motion and crash detection", "correct": true },
+          { "text": "Humidity", "correct": true },
+          { "text": "Anti-tampering detection", "correct": true },
+          { "text": "Automatic inventory management and dispatch information", "correct": true },
+          { "text": "Payment overdue of customer", "correct": false },
+          { "text": "Loaded/unloaded carrier detection", "correct": true },
+          { "text": "Marketing insights and optimisation", "correct": true },
+          { "text": "Black- and whitelist locations detection", "correct": true }
+        ],
+        "explanation": "Equipped with advanced sensors, our Connected Load Carriers provide vital data such as traceability, motion and crash detection, humidity levels, and anti-tampering alerts. They also support automatic inventory management and offer dispatch information, while providing marketing and operational insights. (Note: They do not track customer payment statuses.)"
+      },
+      {
+        "id": 5,
+        "imageUrl": "/assets/img/operations-5.png",
+        "question": "Which term belongs to what of our activities?\n\nA. Dispatch data\nB. Heat treatment\nC. Onside depot\n\n1. Load carrier availability\n2. Pallet collection\n3. ISPM-15",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "A3 / B1 / C2", "correct": false },
+          { "text": "A2 / B1 / C3", "correct": false },
+          { "text": "A2 / B3 / C1", "correct": true }
+        ],
+        "explanation": "Dispatch data is crucial for pallet collection (A2). Heat treatment is needed to meet ISPM-15 requirements for international shipping (B3). An onside depot guarantees immediate load carrier availability (C1). Thus, the correct matching is A2 / B3 / C1."
+      },
+      {
+        "id": 6,
+        "imageUrl": "/assets/img/operations-6.png",
+        "question": "Who are we looking for?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "Dirk Freda, Operations Director IPP DACH", "correct": false },
+          { "text": "Fernando Caballero, Operations Director IPP Iberia", "correct": false },
+          { "text": "David Bage, Operations Director IPP UK", "correct": true }
+        ],
+        "explanationImage": "/assets/img/david-bage.jpg",
+        "explanation": "We were looking for David Bage. He is the Operations Director of IPP UK. David is responsible for ensuring that all operations within the organization run smoothly and efficiently."
+      },
+      {
+        "id": 7,
+        "imageUrl": "/assets/img/operations-7.png",
+        "question": "What is the effect of a 0,5% reduction in our loss rate?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "€1,1m", "correct": false },
+          { "text": "€4,9m", "correct": true },
+          { "text": "€8,2m", "correct": false }
+        ],
+        "explanation": "Even a small reduction in our loss rate, such as 0.5%, significantly extends the lifecycle of our load carriers. This improvement reduces the need for frequent replacements, which in turn saves millions by lowering both capital expenditures and production costs."
+      },
+      {
+        "id": 8,
+        "imageUrl": "/assets/img/operations-8.png",
+        "question": "Reducing dwell time is key to have maximum pallet availability for our customers and to make optimal use of our pool. How many unused pallets can you spot in the store of our customer so they can be made available for collection?",
+        "multipleCorrect": false,
+        "answers": [
+          { "text": "4 pallets", "correct": false },
+          { "text": "6 pallets", "correct": false },
+          { "text": "8 pallets", "correct": true }
+        ],
+        "explanation": "Efficient management of dwell time ensures that pallets are not left idle. In this case, identifying the 8 unused pallets in the store allows them to be collected and returned to circulation quickly, thus boosting overall availability."
+      },
+      {
+        "id": 9,
+        "imageUrl": "/assets/img/operations-9.png",
+        "question": "Which two categories have the biggest footprint of our operations?",
+        "multipleCorrect": true,
+        "answers": [
+          { "text": "Purchased (new) load carriers", "correct": true },
+          { "text": "Upstream transportation", "correct": true },
+          { "text": "Downstream transportation", "correct": false },
+          { "text": "Purchased wood", "correct": false },
+          { "text": "Purchased load carrier services", "correct": false },
+          { "text": "Depot services", "correct": false }
+        ],
+        "explanation": "The most significant environmental impacts in our operations come from the production of new load carriers and the upstream transportation required to deliver them. Optimizing our use of existing assets and improving transport efficiency are therefore key strategies to reduce our overall footprint."
+      },
+      {
+        "id": 10,
+        "imageUrl": "/assets/img/operations-10.png",
+        "question": "What characterizes the impact you want to make?",
+        "multipleCorrect": false,
+        "alwaysCorrect": true,
+        "answers": [
+          { "text": "LEAN & Green", "correct": false },
+          { "text": "DRIVEN & Proud", "correct": false },
+          { "text": "SMART & Impactful", "correct": false },
+          { "text": "ORGANISED & Happy", "correct": false },
+          { "text": "AMBITIOUS & Involved", "correct": false },
+          { "text": "ANALYTIC & Sustainable", "correct": false },
+          { "text": "CLEVER & Caring", "correct": false },
+          { "text": "TALENTED & Valuable", "correct": false },
+          { "text": "Other", "correct": false }
+        ],
+        "explanation": "At IPP, we believe that the true impact of our work is defined not by one single attribute but by the broader difference we make in our communities and industries. Whether you define your impact as LEAN & Green, SMART & Impactful, or any other positive attribute, every answer is welcome as it contributes to our shared mission of excellence."
+      }
+    ]
+  }
+  
